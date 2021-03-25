@@ -1,0 +1,49 @@
+.first{
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    font-size: 24px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.top{
+    background: linear-gradient(pink,blue);
+}
+.second{
+    border-radius: 80px;
+}
+.third{
+    font-weight: 500;
+    font-size: 15px;
+    color: black;
+}
+.fourth{
+    font-weight: 400;
+    font-size: 60px;
+}
+.fifth{
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.74);
+}
+.button{
+    padding: 10px 35px;
+    background: black;
+    
+}
+.sixth{
+    font-size: 18px;
+    font-weight: 900;
+    color: black;
+}
+.seventh{
+    font-weight: 100;
+    font-size: 13px;
+}
+.fa-star{
+    color: lightgreen;
+}
+.eight{
+    font-weight: 500;
+    font-size: 15px;
+}
