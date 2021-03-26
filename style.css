@@ -47,3 +47,72 @@
     font-weight: 500;
     font-size: 15px;
 }
+.nineth{
+    background: linear-gradient(blue,violet);
+}
+.tenth{
+    font-size: 90px;
+    font-weight: 300;
+
+}
+.eleven{
+    border-radius: 26px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.twelve{
+    font-size: 20px;
+    font-weight: 600;
+}
+.thirteen{
+    border: 2px solid black;
+    background: transparent;
+    color: black;
+    padding: 5px 17px;
+    border-radius: 10px;
+}
+.fifteen{
+    background: gold;
+}
+.nineteen{
+    background: black;
+}
+.thirty{
+    border: 2px solid blue;
+    color: white;
+    border-radius: 90%;
+    background: blue;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.fifty{
+    border: 2px solid indianred;
+    color: white;
+    border-radius: 90%;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background:indianred ;
+    margin-left: 10px;
+}
+.sixty{
+    border: 2px solid red;
+    color: white;
+    border-radius: 90%;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background:red ;
+    margin-left: 10px;
+    
+}
+.ninety{
+    font-size: small;
+}
+.hundred{
+    color: white;
+}
